@@ -1,0 +1,9 @@
+{
+  "appId": "com.cmaprep.pro",
+  "appName": "CMA Orbit",
+  "webDir": "www",
+  "backgroundColor": "#7C7BCB",
+  "android": {
+    "backgroundColor": "#7C7BCB"
+  }
+}
